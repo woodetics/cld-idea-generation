@@ -2,6 +2,10 @@
 
 This will serve as the knowledge base for containing information on Kent's ideas in general from money-making to video titles and video ideas.
 
+## Dashboard
+
+Open `dashboard.html` in your browser for a clickable course view of everything here (also published as a private page: https://claude.ai/artifact/EcKzhX8qAGS7kcZbb4K8e1). It's built from the markdown files, rebuild with `python3 dashboard/build.py` (needs `pip install markdown`).
+
 ## Folders
 
 | Folder | What's inside |
